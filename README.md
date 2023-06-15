@@ -1,6 +1,6 @@
 # Low-level programming & Algorithm
 
-Module of **Low-level programming** and **algorithm**, carried out during **Full Stack Software Engineering studies** at **[Holberton School](https://www.holbertonschool.com/)**.
+Module of **Low-level programming** and **algorithm**, carried out during **Full Stack Software Engineering studies** at **[ALX School](https://www.alxafrica.com/)**.
 
 ## Technologies
 * Scripts written in Bash 5.0.17(1)
@@ -13,7 +13,7 @@ All of the following folders are projects done during the studies:
 
 | Project name | Description |
 | ------------ | ----------- |
-| [`0x00-hello_world`](https://github.com/luischaparroc/holbertonschool-low_level_programming/tree/master/0x00-hello_world) | It aims to learn about what is entry point, basics commands (puts, printf, putchar), compilation process with gcc in **C language** |
+| [`0x00-hello_world`](https://github.com/tholumuzikuboni/alx-low_level_programming/tree/master/0x00-hello_world) | It aims to learn about what is entry point, basics commands (puts, printf, putchar), compilation process with gcc in **C language** |
 | [`0x01-variables_if_else_while`](https://github.com/luischaparroc/holbertonschool-low_level_programming/tree/master/0x01-variables_if_else_while) | It aims to learn about arithmetic operators, relational operators, boolean operators, comments, declaring variables and loops in **C language** |
 | [`0x02-functions_nested_loops`](https://github.com/luischaparroc/holbertonschool-low_level_programming/tree/master/0x02-functions_nested_loops) | It aims to learn about header files, functions, loops and nested loops in **C language** |
 | [`0x03-debugging`](https://github.com/luischaparroc/holbertonschool-low_level_programming/tree/master/0x03-debugging) | It aims to learn how to debug in **C language** |

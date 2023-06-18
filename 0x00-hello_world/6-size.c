@@ -3,7 +3,8 @@
 /**
  * main - Entry point
  *
- * Description: Write a C program that prints the size of various types on the computer it is compiled and run on.
+ * Description:'Write a C program that prints the size of various types on the computer.'
+ * @parameter: Warnings are allowed
  *
  * Return Always 0 (Success)
  */

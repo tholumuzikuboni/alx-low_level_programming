@@ -2,7 +2,7 @@
 
 /**
  * print alphabet - make the aphabet
- * Description - Write a function that prints the alphabet, in lowercase, followed by a new line.
+ * Description - Write a function that prints the alphabet.
  * Return: void
  */
 

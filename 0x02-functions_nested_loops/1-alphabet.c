@@ -7,8 +7,6 @@
 
 void print_alphabet(void)
 
-/* Description - Write a function that prints the alphabet */
-
 {
 	char c;
 
